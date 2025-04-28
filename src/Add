@@ -1,0 +1,7 @@
+bg-[#5f6FFF]
+bg-primary,
+
+grid-cols-auto
+grid grid-cols-[repeat(auto-fill,_minmax(200px,_1fr))],
+npm install react-router-dom tailwindcss @tailwindcss/vite framer-motion i18next react-i18next axios react-toastify react-icons
+
